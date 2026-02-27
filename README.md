@@ -327,6 +327,6 @@ backend/
 6. Connect with React frontend
 
 ---
-**Author:** FixMatch Team  
+**Author:** RUTARO NGABONZIZA Didace(26591) 
 **Date:** 2026  
-**Purpose:** Spring Boot Practical Assessment
+**Purpose:** Spring Boot Practical Mid-term
